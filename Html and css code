@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Webpage Desgin</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div class="main">
+            <div class="navbar">
+                <div class="icon">
+                    <h2 class="logo">CREATIVE AGENCY</h2>
+                </div>
+                <div class="menu">
+                    <ul>
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#">About us</a></li>
+                        <li><a href="#">Pricing</a></li>
+                        <li><a href="#">Our store</a></li>
+                        <li><a href="#">Customers
+
+                        </a></li>
+                    </ul>
+                </div>
+
+                <div class="contact">
+                    <a href="#"><button class="btn">contact</button></a>
+                </div>
+                <div class="content">
+                    <a herf="">Sell your products easily
+                               and quickly</a>
+                </div>
+                <div class="img"><img src="p.jpg">
+                </div>
+                <div class="img2"><img src="s.jpg">
+                </div>
+                <div class="img3"><img src="a.jpg">
+                </div>
+                <div class="bg-purple padding-50px border-radius-10">
+                  <h3 class="text-center">Furniture</h3>
+                </div>
+                <div class="bg-purple2 padding-50px border-radius-10">
+                    <h4 class="text-center">Interior Desgin</h4>
+                  </div>
+            </div>
+        </div>
+    </body>
+</html>
