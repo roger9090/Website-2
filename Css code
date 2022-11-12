@@ -1,0 +1,141 @@
+Css
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.main{
+    width: 100%;
+    background-image: url(image\ 2.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+}
+.navbar{
+    width:1200px;
+    height: 75px;
+    margin: left;
+}
+.icon{
+    width: 200px;
+    float: left;
+    height: 70px;
+}
+.logo{
+    color:#010000;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 60%;
+    padding-inline-start: 380%;
+    float: left;
+    padding-inline-end: 20%;
+}
+.menu{
+    width: 690px;
+    float: left;
+    height: 70px;
+}
+ul{
+    float: right;
+    display: flex;
+    justify-content: 40%;
+    align-items: right;
+}
+ul li{
+    list-style: none;
+    margin-left: 20%;
+    margin-top: 10%;
+    font-size: 16px;
+}
+
+ul li a{
+    text-decoration: center;
+    color: rgb(3, 0, 0);
+    font-family: Arial;
+    transition: 0.4s ease-in-out;
+}
+
+ul li a:hover{
+    color:#003cffdd
+}
+
+.contact{
+    width: 480%;
+    float: top;
+    margin-left: 1600px;
+    font-size: 20%;
+}
+
+.content{
+        margin-left: 58%;
+        margin-top: 24%;
+}
+.content{
+    color:#010000;
+    font-size: 38px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-right: 10%;
+}
+.img {
+    width: 35;
+    height: 20%;
+    background-image: url('p.jpg');
+    float: right;
+    position: relative;
+    left: 100px;
+    top: -150px;
+}
+.img2 {
+    width: 250px;
+    height: 200px;
+    background-image: url('s.jpg');
+    float: right;
+    position: relative;
+    left: -400px;
+    top: -310px;
+}
+
+.img3 {
+    width: 200px;
+    height: 200px;
+    background-image: url('s.jpg');
+    float: right;
+    position: relative;
+    left: -520px;
+    top: -124px;
+}
+.bg-purple{
+    width: 200px;
+    height: 200px;
+    float: left;
+    text-align: center;
+    left: 190px;
+    top: 500px;
+}
+
+.bg-purple{
+    background-color: #C000FF;
+    width: 200px;
+    height: 150%;
+    position: relative;
+    left: 20%;
+    top: 200%;
+}
+.bg-purple2 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    text-align: center;
+    left: 190px;
+    top: 500px;
+}
+
+.bg-purple2 {
+    background-color: #C000FF;
+    width: 200px;
+    height: 150%;
+    position: relative;
+    left: 20%;
+    top: 200%;
+}
